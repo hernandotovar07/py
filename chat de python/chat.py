@@ -1,0 +1,16 @@
+lista = []
+#nos guarda las 1 2 3 4 5 y 6
+pregunta = input (f"¿como te llamas?")
+print(f"{pregunta}")
+regunta = input (f"¿cual es tu edad?")
+print(f"{pregunta}")
+pregunta = input (f"¿trabajas o estudias?")
+print(f"{pregunta}")
+pregunta = input (f"¿donde vives?")
+print(f"{pregunta}")
+pregunta = input (f"¿que haces en los tiempos libres?")
+print = (f"pregunta")
+pregunta = input (f"¿cual es genero de musica favorito?")
+print = (f"{pregunta}")
+pregunta = input (f"¿te gusta mas el perro o la hamburguesa?")
+print = (f"{pregunta}")
